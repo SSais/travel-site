@@ -4,7 +4,7 @@ body {
     padding: 0;
   }
   .header_border0 {
-    background-color: rgb(255, 255, 255);
+    background-color: #FFFFFF;
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -187,7 +187,7 @@ body {
     border-color: rgb(255, 255, 255, 0.40);
   }
   .icon_border0:hover {
-    background-color: rgb(255, 255, 255, 1.0);
+    background-color: #FFFFFF;
   }
   /* image ID's as class is not working - not sure why */
   
@@ -386,16 +386,6 @@ body {
     padding-bottom: 10px;
   }
   
-  
   .footer_icons {
     display: flex;
-  }
-  #insta {
-    display: none;
-  }
-  .fb {
-    display: none;
-  }
-  #twitter {
-    display: none;
   }
